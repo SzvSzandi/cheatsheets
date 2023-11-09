@@ -7,4 +7,5 @@ ni: new item (!! ne legyen benne space!!);
 pwd: print working directory;
 code . : megnyitja a VS adott fájlját;
 ls- Force: rejtett fájlokat is listáz;
-rm -Force .fájlneve: kitörli a fájlt;
+rm -Force: mappa törlése (majd y jóváhagy);
+rm : kitörli a fájlt;
